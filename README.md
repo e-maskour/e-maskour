@@ -44,21 +44,21 @@
 
 <br />
 
-<details> 
+<!-- <details> 
   <summary> 
     <h3> 💡 Some of my projects </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
   </summary>
   <br/>
   <p align="left">
     <a href="https://github.com/e-maskour/moroccan-products-for-supplychain">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=e-maskour&repo=moroccan-products-for-supplychain&show_icons=true"             alt="Supply chain based on Blockchain" width="40">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=e-maskour&repo=moroccan-products-for-supplychain&show_icons=true"             alt="Supply chain based on Blockchain" width="600">
     </a>
   </p>
 
  <p align="left">
   <a href="https://github.com/The-Young-Programmer?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-</details>
+</details> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=e-maskour&show_icons=true&locale=en&layout=compact" alt="e-maskour" /></p>
 
